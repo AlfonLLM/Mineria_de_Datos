@@ -10,7 +10,11 @@
 
 [Base de Datos: Reglas de Asociación](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/Base%20de%20Datos.csv)
 
-[Ejercicios I]()
+[Ejercicios I](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/Ejercicios1_002.pdf)
+
+[Programa en Python de Ejercicios I: Regresión](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/Ejercicio%201%20-%20Regresi%C3%B3n.ipynb)
+
+[Programa en Python de Ejercicios I: Reglas de asociación](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/Ejercicio%201%20-%20Reglas%20de%20Asociaci%C3%B3n.ipynb)
 
 [Ejercicios II]()
 
