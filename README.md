@@ -20,4 +20,4 @@
 
 [Mapa Mental II]()
 
-[Resumenes: Técnicas de minería]()
+[Resumenes: Técnicas de minería](https://github.com/AlfonLLM/Mineria_de_Datos/blob/master/Resumenes_1887939.pdf)
