@@ -16,6 +16,6 @@
 
 [Programa en Python de Ejercicios I: Reglas de asociación](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/Ejercicio%201%20-%20Reglas%20de%20Asociaci%C3%B3n.ipynb)
 
-[Mapa Mental II]()
+[Mapa Mental II](https://github.com/AlfonLLM/Mineria_de_Datos/blob/master/MapaMental_2_1887939.pdf)
 
 [Resumenes: Técnicas de minería](https://github.com/AlfonLLM/Mineria_de_Datos/blob/master/Resumenes_1887939.pdf)
