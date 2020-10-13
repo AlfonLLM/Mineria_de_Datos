@@ -4,17 +4,21 @@
 
 [Mapa Mental 1](https://github.com/AlfonLLM/Mineria_de_Datos/blob/master/MapaMental_1_1887939.pdf)
 
-[Presentación: Técnicas de minería - Reglas de Asociación](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/Presentaci%C3%B3n_Reglas%20de%20asociaci%C3%B3n_002.pdf)
+### Técnicas de Minería - Reglas de Asociación
 
-[Programa en Python: Reglas de Asociación](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/Reglas_de_Asociacion.ipynb)
+* [Presentación: Técnicas de minería - Reglas de Asociación](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/Presentaci%C3%B3n_Reglas%20de%20asociaci%C3%B3n_002.pdf)
 
-[Base de Datos: Reglas de Asociación](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/Base%20de%20Datos.csv)
+* [Programa en Python: Reglas de Asociación](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/Reglas_de_Asociacion.ipynb)
 
-[Ejercicios I](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/Ejercicios1_002.pdf)
+* [Base de Datos: Reglas de Asociación](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/Base%20de%20Datos.csv)
 
-[Programa en Python de Ejercicios I: Regresión](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/Ejercicio%201%20-%20Regresi%C3%B3n.ipynb)
+### Ejercicios I
 
-[Programa en Python de Ejercicios I: Reglas de asociación](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/Ejercicio%201%20-%20Reglas%20de%20Asociaci%C3%B3n.ipynb)
+* [Ejercicios I](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/Ejercicios1_002.pdf)
+
+* [Programa en Python de Ejercicios I: Regresión](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/Ejercicio%201%20-%20Regresi%C3%B3n.ipynb)
+
+* [Programa en Python de Ejercicios I: Reglas de asociación](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/Ejercicio%201%20-%20Reglas%20de%20Asociaci%C3%B3n.ipynb)
 
 [Mapa Mental II](https://github.com/AlfonLLM/Mineria_de_Datos/blob/master/MapaMental_2_1887939.pdf)
 
