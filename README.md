@@ -4,7 +4,7 @@
 
 [Mapa Mental 1](https://github.com/AlfonLLM/Mineria_de_Datos/blob/master/MapaMental_1_1887939.pdf)
 
-### Técnicas de Minería - Reglas de Asociación
+###### Técnicas de Minería - Reglas de Asociación
 
 * [Presentación: Técnicas de minería - Reglas de Asociación](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/Presentaci%C3%B3n_Reglas%20de%20asociaci%C3%B3n_002.pdf)
 
@@ -12,7 +12,7 @@
 
 * [Base de Datos: Reglas de Asociación](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/Base%20de%20Datos.csv)
 
-### Ejercicios I
+###### Ejercicios I
 
 * [Ejercicios I](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/Ejercicios1_002.pdf)
 
