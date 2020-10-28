@@ -30,5 +30,5 @@
 
 [Ejercicios de Python (Básicos)](https://github.com/AlfonLLM/Mineria_de_Datos/blob/master/PythonBasico_1887939.ipynb)
 
-[Avance 1 - Proyecto Integrador](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/Avance1-PIA_Equipo11_002.pdf)
+[Avance I - Proyecto Integrador](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/Avance1-PIA_Equipo11_002.pdf)
 
