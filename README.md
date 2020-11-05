@@ -32,4 +32,6 @@
 
 [Avance I - Proyecto Integrador](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/Avance1-PIA_Equipo11_002.pdf)
 
+## Fase III
+
 [Ejercicios de programación - Herramientas de minería de datos](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/EjerciciosPracticasMineriadeDatos_Equipo11.ipynb)
