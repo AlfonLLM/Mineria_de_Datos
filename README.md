@@ -34,4 +34,4 @@
 
 ## Fase III
 
-[Ejercicios de programación - Herramientas de minería de datos](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/EjerciciosPracticasMineriadeDatos_Equipo11.ipynb)
+[Ejercicios de programación - Herramientas de minería de datos](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/EjerciciosPythonMineriadeDatos_Equipo11_002.ipynb)
